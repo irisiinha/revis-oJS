@@ -12,4 +12,3 @@ function  bemVindo (nome){
 console.log(nome)
 }
 bemVindo("Íris")
-    
